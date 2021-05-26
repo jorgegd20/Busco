@@ -9,5 +9,6 @@ namespace Busco.Models
         public Comprador Comprador { get; set; }
         public int CompradorId { get; set; }
         public string Lugar { get; set; }
+        
     }
 }
